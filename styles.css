@@ -9,6 +9,7 @@ body {
     text-align: justify;
     background-size: 25px 25px; 
     background-image: linear-gradient(to right, #f2f8f9 1px, transparent 1px), linear-gradient(to bottom, #f2f8f9 1px, transparent 1px);
+    cursor: url(cursor.gif), auto;
 }
 
 small, sub, sup {
